@@ -1,3 +1,5 @@
 # drt-go-core
 
+.
+
 
