@@ -1,2 +1,0 @@
-# drt-go-core
-
